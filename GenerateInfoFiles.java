@@ -20,7 +20,7 @@ public class GenerateInfoFiles {
             FileWriter fileVendor = new FileWriter(name + "_" + id + ".txt");
             Random random = new Random();
 
-            fileVendor.write("DocumentTypeVendor;" + id);
+            fileVendor.write("DocumentTypeSeller;" + id + "\n");
             for(int i = 0; i < randomSalesCount; i++) {
                 fileVendor.write("ProductID" + i+1 + ";" + (random.nextInt(10) + 1) + "\n");
             }

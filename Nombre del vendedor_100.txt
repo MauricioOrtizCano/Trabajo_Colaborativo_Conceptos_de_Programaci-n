@@ -1,5 +1,6 @@
-DocumentTypeVendor;100ProductID01;6
+DocumentTypeSeller;100
+ProductID01;10
 ProductID11;4
-ProductID21;8
-ProductID31;5
-ProductID41;10
+ProductID21;6
+ProductID31;2
+ProductID41;5
