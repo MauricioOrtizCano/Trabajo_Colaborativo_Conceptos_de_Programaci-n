@@ -13,6 +13,7 @@ To generate input files, run the GenerateInfoFiles class. This class provides me
 Java 8
 Eclipse IDE for Java Developers
 
-## Author
+## Authors
 
 Cristian Mauricio Ortiz Cano Cod: 100236503
+Juan David Mancipe Mahecha Cod: 100297512
