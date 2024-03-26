@@ -1,0 +1,5 @@
+CC;1000000;Daniel;Paez
+CC;1000001;Paula;Barrios
+CC;1000002;Yenny;Martinez
+CC;1000003;Yenny;Guzmán
+CC;1000004;Juan;Barrios

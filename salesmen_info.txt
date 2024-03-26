@@ -1,0 +1,5 @@
+CC;1000000;Jorge;Cárdenas
+CC;1000001;Juan;Martinez
+CC;1000002;Laura;Paez
+CC;1000003;Laura;Rodriguez
+CC;1000004;Juan;Barrios
