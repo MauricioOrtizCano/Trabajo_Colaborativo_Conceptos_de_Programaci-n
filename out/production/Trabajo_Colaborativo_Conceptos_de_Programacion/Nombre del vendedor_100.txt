@@ -1,6 +1,0 @@
-DocumentTypeSeller;100
-ProductID01;7
-ProductID11;10
-ProductID21;6
-ProductID31;8
-ProductID41;5
