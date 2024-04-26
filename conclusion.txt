@@ -1,14 +1,12 @@
-Conclusión:
+Conclusión de módulo.
 
 1. ¿Qué se aprendió durante el desarrollo de proyecto?
 Mientras llevabamos a cabo el desarrollo del programa, logramos aprender la sintaix que maneja Java. No osbtante, mientras se diseñaba el proyecto adquirimos un gran conocimiento a cerca 
-de los contenedores de datos o mejor conocido como variables. Otro de lo conceptos aprendidos fueron los tipos primitivos, su clasificación y sus subtipos, cuyo aprendizaje facilita el 
-reconocimiento de cada literal. La declaración de la funciones no se queda atrás, nos deja como enseñaza la descompición funcional y cuál es la ventaja que tienen en cada programa para ejecutar 
-la lógica ecrita, ya que al igual que las clases tienen una amplia importancia.
+de los contenedores de datos o mejor conocido como variables, cuya función es muy importante a la hora de almacenar información. Otro de lo conceptos aprendidos fueron los tipos primitivos, su clasificación y sus subtipos, cuyo aprendizaje facilita el reconocimiento de cada literal. La declaración de la funciones no se queda atrás, nos deja como enseñaza la descomposición funcional y cuál es la ventaja que tienen en cada programa para ejecutar la lógica ecrita dentro de ella, ya que al igual que las clases tienen una amplia importancia al momento de definir un objeto.
 
 2. Una de las ventajas de haber tomado este módulo y haber puesto en práctica lo conceptos con el desarrollo de un programa es el debloqueo de una nueva habilidad que puede ser aplicada en la 
-vida cotidiana para resolver problemas del diario vivir, o incluso para iniciar nuestro propio proyecto y darlo a conocer a peronas que quieren resolver alguna necesidad. Esta experiencia puede 
-sumarse como una habilidad a nuestro currículum independientemente el área en el que trabajemos, ya que puede ser un plus al momento de buscar un trabajo en la industria tecnológica. sin embargo, 
+vida cotidiana para resolver problemas del diario vivir, o incluso para iniciar nuestro propio proyecto y darlo a conocer a personas que quieren resolver alguna necesidad. Esta experiencia puede 
+sumarse como una habilidad a nuestro currículum independientemente del área en el que trabajemos, ya que puede ser un plus al momento de buscar un trabajo en la industria tecnológica. sin embargo, 
 el haber desarollado este proyecto puede ser uno de los primeros pasos para iniciar una carrera como desarrollador, ya que de aquí podría nacer el gusto de aprender nuevos lenguajes, tecnologías o
 incluso adentrarse totalmente en el mundo de Java.
 
