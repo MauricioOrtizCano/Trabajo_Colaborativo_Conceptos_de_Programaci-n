@@ -11,3 +11,10 @@ el haber desarollado este proyecto puede ser uno de los primeros pasos para inic
 incluso adentrarse totalmente en el mundo de Java.
 
 3. Dificultades presentadas
+Durante el desarrollo del proyecto, enfrentamos varias dificultades que requirieron tiempo y esfuerzo para superarlas. Una de las principales dificultades fue comprender y manejar adecuadamente las estructuras de datos necesarias para almacenar la información de los vendedores y productos, así como para calcular las ventas totales. La utilización efectiva de las clases Map para representar estos datos y la necesidad de realizar operaciones complejas con ellas resultaron ser un desafío significativo.
+
+Además, tuvimos dificultades para garantizar la correcta lectura y procesamiento de los archivos de entrada. La manipulación de archivos en Java y la gestión de excepciones asociadas a la lectura y escritura de archivos que requeron un enfoque cuidadoso para evitar errores y asegurar la robustez del programa.
+
+Otro desafío importante fue integrar la lógica de negocio en la clase Main.java para calcular las ventas totales y generar informes de manera eficiente. Esto implicaba diseñar algoritmos efectivos para recorrer y manipular los datos almacenados en las estructuras de datos, así como implementar la generación de archivos CSV con el formato correcto.
+
+A pesar de estas dificultades, abordamos cada problema de manera sistemática y consultamos recursos adicionales, como documentación oficial de Java y tutoriales en línea, para comprender mejor los conceptos y encontrar soluciones viables.
